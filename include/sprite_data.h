@@ -1408,6 +1408,17 @@ extern const u8 gFrontSprite1398TerapagosTiles[];
 extern const u8 gFrontSprite1399TerapagosTerastalTiles[];
 extern const u8 gFrontSprite1400TerapagosStellarTiles[];
 extern const u8 gFrontSprite1401PecharuntTiles[];
+extern const u8 gFrontSprite1402StarmieMegaTiles[];
+extern const u8 gFrontSprite1403ArticunoMegaTiles[];
+extern const u8 gFrontSprite1404ZapdosMegaTiles[];
+extern const u8 gFrontSprite1405MoltresMegaTiles[];
+extern const u8 gFrontSprite1406DragoniteMegaTiles[];
+extern const u8 gFrontSprite1407CrobatMegaTiles[];
+extern const u8 gFrontSprite1408BellossomMegaTiles[];
+extern const u8 gFrontSprite1409RhyperiorMegaTiles[];
+extern const u8 gFrontSprite1410ElectivireMegaTiles[];
+extern const u8 gFrontSprite1411MagmortarMegaTiles[];
+
 
 extern const u8 gFrontSprite252Tiles[];
 
@@ -2819,6 +2830,17 @@ extern const u8 gBackShinySprite1398TerapagosTiles[];
 extern const u8 gBackShinySprite1399TerapagosTerastalTiles[];
 extern const u8 gBackShinySprite1400TerapagosStellarTiles[];
 extern const u8 gBackShinySprite1401PecharuntTiles[];
+extern const u8 gBackShinySprite1402StarmieMegaTiles[];
+extern const u8 gBackShinySprite1403ArticunoMegaTiles[];
+extern const u8 gBackShinySprite1404ZapdosMegaTiles[];
+extern const u8 gBackShinySprite1405MoltresMegaTiles[];
+extern const u8 gBackShinySprite1406DragoniteMegaTiles[];
+extern const u8 gBackShinySprite1407CrobatMegaTiles[];
+extern const u8 gBackShinySprite1408BellossomMegaTiles[];
+extern const u8 gBackShinySprite1409RhyperiorMegaTiles[];
+extern const u8 gBackShinySprite1410ElectivireMegaTiles[];
+extern const u8 gBackShinySprite1411MagmortarMegaTiles[];
+
 
 extern const u8 gBackShinySprite252Tiles[];
 
@@ -4232,6 +4254,17 @@ extern const u8 gFrontSprite1398TerapagosPal[];
 extern const u8 gFrontSprite1399TerapagosTerastalPal[];
 extern const u8 gFrontSprite1400TerapagosStellarPal[];
 extern const u8 gFrontSprite1401PecharuntPal[];
+extern const u8 gFrontSprite1402StarmieMegaPal[];
+extern const u8 gFrontSprite1403ArticunoMegaPal[];
+extern const u8 gFrontSprite1404ZapdosMegaPal[];
+extern const u8 gFrontSprite1405MoltresMegaPal[];
+extern const u8 gFrontSprite1406DragoniteMegaPal[];
+extern const u8 gFrontSprite1407CrobatMegaPal[];
+extern const u8 gFrontSprite1408BellossomMegaPal[];
+extern const u8 gFrontSprite1409RhyperiorMegaPal[];
+extern const u8 gFrontSprite1410ElectivireMegaPal[];
+extern const u8 gFrontSprite1411MagmortarMegaPal[];
+
 
 extern const u8 gFrontSprite252Pal[];
 
@@ -5643,6 +5676,17 @@ extern const u8 gBackShinySprite1398TerapagosPal[];
 extern const u8 gBackShinySprite1399TerapagosTerastalPal[];
 extern const u8 gBackShinySprite1400TerapagosStellarPal[];
 extern const u8 gBackShinySprite1401PecharuntPal[];
+extern const u8 gBackShinySprite1402StarmieMegaPal[];
+extern const u8 gBackShinySprite1403ArticunoMegaPal[];
+extern const u8 gBackShinySprite1404ZapdosMegaPal[];
+extern const u8 gBackShinySprite1405MoltresMegaPal[];
+extern const u8 gBackShinySprite1406DragoniteMegaPal[];
+extern const u8 gBackShinySprite1407CrobatMegaPal[];
+extern const u8 gBackShinySprite1408BellossomMegaPal[];
+extern const u8 gBackShinySprite1409RhyperiorMegaPal[];
+extern const u8 gBackShinySprite1410ElectivireMegaPal[];
+extern const u8 gBackShinySprite1411MagmortarMegaPal[];
+
 
 extern const u8 gBackShinySprite252Pal[];
 
@@ -7058,5 +7102,16 @@ extern const u8 gIconSprite1398TerapagosTiles[];
 extern const u8 gIconSprite1399TerapagosTerastalTiles[];
 extern const u8 gIconSprite1400TerapagosStellarTiles[];
 extern const u8 gIconSprite1401PecharuntTiles[];
+extern const u8 gIconSprite1402StarmieMegaTiles[];
+extern const u8 gIconSprite1403ArticunoMegaTiles[];
+extern const u8 gIconSprite1404ZapdosMegaTiles[];
+extern const u8 gIconSprite1405MoltresMegaTiles[];
+extern const u8 gIconSprite1406DragoniteMegaTiles[];
+extern const u8 gIconSprite1407CrobatMegaTiles[];
+extern const u8 gIconSprite1408BellossomMegaTiles[];
+extern const u8 gIconSprite1409RhyperiorMegaTiles[];
+extern const u8 gIconSprite1410ElectivireMegaTiles[];
+extern const u8 gIconSprite1411MagmortarMegaTiles[];
+
 
 extern const u8 gIconSprite252Tiles[];

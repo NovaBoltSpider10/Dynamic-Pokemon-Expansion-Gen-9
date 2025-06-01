@@ -27995,7 +27995,7 @@ const struct BaseStats gBaseStats[] =
 		.noFlip = TRUE,
 	},
 
-	[SPECIES_GENGAR_MEGA] =
+	[SPECIES_GENGAR_MEGA_Y] =
 	{
 		.baseHP = 60,
 		.baseAttack = 65,

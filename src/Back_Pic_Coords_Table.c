@@ -4383,7 +4383,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
-	[SPECIES_GENGAR_MEGA] =
+	[SPECIES_GENGAR_MEGA_Y] =
 	{
 		.size = 0x0,
 		.y_offset = 0x0,
@@ -6988,6 +6988,56 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x5,
 	},
+		[SPECIES_STARMIE_MEGA] = 
+{
+    .size = 0x0,
+    .y_offset = 0x4,
+},
+	[SPECIES_ARTICUNO_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_ZAPDOS_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_MOLTRES_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_DRAGONITE_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_CROBAT_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_BELLOSSOM_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_RHYPERIOR_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_ELECTIVIRE_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
+	[SPECIES_MAGMORTAR_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =
@@ -7160,4 +7210,6 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
+
+
 };

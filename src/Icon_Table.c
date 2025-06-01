@@ -879,7 +879,7 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_PIDGEOT_MEGA] =         gIconSprite874PidgeotMegaTiles,
 	[SPECIES_ALAKAZAM_MEGA] =        gIconSprite875AlakazamMegaTiles,
 	[SPECIES_SLOWBRO_MEGA] =         gIconSprite876SlowbroMegaTiles,
-	[SPECIES_GENGAR_MEGA] =          gIconSprite877GengarMegaTiles,
+	[SPECIES_GENGAR_MEGA_Y] =          gIconSprite877GengarMegaTiles,
 	[SPECIES_KANGASKHAN_MEGA] =      gIconSprite878KangaskhanMegaTiles,
 	[SPECIES_PINSIR_MEGA] =          gIconSprite879PinsirMegaTiles,
 	[SPECIES_GYARADOS_MEGA] =        gIconSprite880GyaradosMegaTiles,
@@ -1400,6 +1400,17 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_TERAPAGOS_TERASTAL] =   gIconSprite1399TerapagosTerastalTiles,
 	[SPECIES_TERAPAGOS_STELLAR] =    gIconSprite1400TerapagosStellarTiles,
 	[SPECIES_PECHARUNT] =            gIconSprite1401PecharuntTiles,
+	[SPECIES_STARMIE_MEGA]     = gIconSprite1402StarmieMegaTiles,
+	[SPECIES_ARTICUNO_MEGA]    = gIconSprite1403ArticunoMegaTiles,
+	[SPECIES_ZAPDOS_MEGA]      = gIconSprite1404ZapdosMegaTiles,
+	[SPECIES_MOLTRES_MEGA]     = gIconSprite1405MoltresMegaTiles,
+	[SPECIES_DRAGONITE_MEGA]   = gIconSprite1406DragoniteMegaTiles,
+	[SPECIES_CROBAT_MEGA]      = gIconSprite1407CrobatMegaTiles,
+	[SPECIES_BELLOSSOM_MEGA]   = gIconSprite1408BellossomMegaTiles,
+	[SPECIES_RHYPERIOR_MEGA]   = gIconSprite1409RhyperiorMegaTiles,
+	[SPECIES_ELECTIVIRE_MEGA]  = gIconSprite1410ElectivireMegaTiles,
+	[SPECIES_MAGMORTAR_MEGA]   = gIconSprite1411MagmortarMegaTiles,
+
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,

@@ -882,7 +882,7 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_PIDGEOT_MEGA] =         {gFrontSprite874PidgeotMegaPal, SPECIES_PIDGEOT_MEGA, 0x0},
 	[SPECIES_ALAKAZAM_MEGA] =        {gFrontSprite875AlakazamMegaPal, SPECIES_ALAKAZAM_MEGA, 0x0},
 	[SPECIES_SLOWBRO_MEGA] =         {gFrontSprite876SlowbroMegaPal, SPECIES_SLOWBRO_MEGA, 0x0},
-	[SPECIES_GENGAR_MEGA] =          {gFrontSprite877GengarMegaPal, SPECIES_GENGAR_MEGA, 0x0},
+	[SPECIES_GENGAR_MEGA_Y] =          {gFrontSprite877GengarMegaPal, SPECIES_GENGAR_MEGA_Y, 0x0},
 	[SPECIES_KANGASKHAN_MEGA] =      {gFrontSprite878KangaskhanMegaPal, SPECIES_KANGASKHAN_MEGA, 0x0},
 	[SPECIES_PINSIR_MEGA] =          {gFrontSprite879PinsirMegaPal, SPECIES_PINSIR_MEGA, 0x0},
 	[SPECIES_GYARADOS_MEGA] =        {gFrontSprite880GyaradosMegaPal, SPECIES_GYARADOS_MEGA, 0x0},
@@ -1403,6 +1403,17 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_TERAPAGOS_TERASTAL] =   {gFrontSprite1399TerapagosTerastalPal, SPECIES_TERAPAGOS_TERASTAL, 0x0},
 	[SPECIES_TERAPAGOS_STELLAR] =    {gFrontSprite1400TerapagosStellarPal, SPECIES_TERAPAGOS_STELLAR, 0x0},
 	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntPal, SPECIES_PECHARUNT, 0x0},
+	[SPECIES_STARMIE_MEGA]     = {gFrontSprite1402StarmieMegaPal, SPECIES_STARMIE_MEGA, 0x0},
+	[SPECIES_ARTICUNO_MEGA]    = {gFrontSprite1403ArticunoMegaPal, SPECIES_ARTICUNO_MEGA, 0x0},
+	[SPECIES_ZAPDOS_MEGA]      = {gFrontSprite1404ZapdosMegaPal, SPECIES_ZAPDOS_MEGA, 0x0},
+	[SPECIES_MOLTRES_MEGA]     = {gFrontSprite1405MoltresMegaPal, SPECIES_MOLTRES_MEGA, 0x0},
+	[SPECIES_DRAGONITE_MEGA]   = {gFrontSprite1406DragoniteMegaPal, SPECIES_DRAGONITE_MEGA, 0x0},
+	[SPECIES_CROBAT_MEGA]      = {gFrontSprite1407CrobatMegaPal, SPECIES_CROBAT_MEGA, 0x0},
+	[SPECIES_BELLOSSOM_MEGA]   = {gFrontSprite1408BellossomMegaPal, SPECIES_BELLOSSOM_MEGA, 0x0},
+	[SPECIES_RHYPERIOR_MEGA]   = {gFrontSprite1409RhyperiorMegaPal, SPECIES_RHYPERIOR_MEGA, 0x0},
+	[SPECIES_ELECTIVIRE_MEGA]  = {gFrontSprite1410ElectivireMegaPal, SPECIES_ELECTIVIRE_MEGA, 0x0},
+	[SPECIES_MAGMORTAR_MEGA]   = {gFrontSprite1411MagmortarMegaPal, SPECIES_MAGMORTAR_MEGA, 0x0},
+
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},

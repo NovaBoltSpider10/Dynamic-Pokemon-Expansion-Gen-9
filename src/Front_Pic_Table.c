@@ -882,7 +882,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_PIDGEOT_MEGA] =         {gFrontSprite874PidgeotMegaTiles, (64 * 64) / 2, SPECIES_PIDGEOT_MEGA},
 	[SPECIES_ALAKAZAM_MEGA] =        {gFrontSprite875AlakazamMegaTiles, (64 * 64) / 2, SPECIES_ALAKAZAM_MEGA},
 	[SPECIES_SLOWBRO_MEGA] =         {gFrontSprite876SlowbroMegaTiles, (64 * 64) / 2, SPECIES_SLOWBRO_MEGA},
-	[SPECIES_GENGAR_MEGA] =          {gFrontSprite877GengarMegaTiles, (64 * 64) / 2, SPECIES_GENGAR_MEGA},
+	[SPECIES_GENGAR_MEGA_Y] =          {gFrontSprite877GengarMegaTiles, (64 * 64) / 2, SPECIES_GENGAR_MEGA_Y},
 	[SPECIES_KANGASKHAN_MEGA] =      {gFrontSprite878KangaskhanMegaTiles, (64 * 64) / 2, SPECIES_KANGASKHAN_MEGA},
 	[SPECIES_PINSIR_MEGA] =          {gFrontSprite879PinsirMegaTiles, (64 * 64) / 2, SPECIES_PINSIR_MEGA},
 	[SPECIES_GYARADOS_MEGA] =        {gFrontSprite880GyaradosMegaTiles, (64 * 64) / 2, SPECIES_GYARADOS_MEGA},
@@ -1403,6 +1403,17 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_TERAPAGOS_TERASTAL] =   {gFrontSprite1399TerapagosTerastalTiles, (64 * 64) / 2, SPECIES_TERAPAGOS_TERASTAL},
 	[SPECIES_TERAPAGOS_STELLAR] =    {gFrontSprite1400TerapagosStellarTiles, (64 * 64) / 2, SPECIES_TERAPAGOS_STELLAR},
 	[SPECIES_PECHARUNT] =            {gFrontSprite1401PecharuntTiles, (64 * 64) / 2, SPECIES_PECHARUNT},
+	[SPECIES_STARMIE_MEGA]      = {gFrontSprite1402StarmieMegaTiles, (64 * 64) / 2, SPECIES_STARMIE_MEGA},
+	[SPECIES_ARTICUNO_MEGA]     = {gFrontSprite1403ArticunoMegaTiles, (64 * 64) / 2, SPECIES_ARTICUNO_MEGA},
+	[SPECIES_ZAPDOS_MEGA]       = {gFrontSprite1404ZapdosMegaTiles, (64 * 64) / 2, SPECIES_ZAPDOS_MEGA},
+	[SPECIES_MOLTRES_MEGA]      = {gFrontSprite1405MoltresMegaTiles, (64 * 64) / 2, SPECIES_MOLTRES_MEGA},
+	[SPECIES_DRAGONITE_MEGA]    = {gFrontSprite1406DragoniteMegaTiles, (64 * 64) / 2, SPECIES_DRAGONITE_MEGA},
+	[SPECIES_CROBAT_MEGA]       = {gFrontSprite1407CrobatMegaTiles, (64 * 64) / 2, SPECIES_CROBAT_MEGA},
+	[SPECIES_BELLOSSOM_MEGA]    = {gFrontSprite1408BellossomMegaTiles, (64 * 64) / 2, SPECIES_BELLOSSOM_MEGA},
+	[SPECIES_RHYPERIOR_MEGA]    = {gFrontSprite1409RhyperiorMegaTiles, (64 * 64) / 2, SPECIES_RHYPERIOR_MEGA},
+	[SPECIES_ELECTIVIRE_MEGA]   = {gFrontSprite1410ElectivireMegaTiles, (64 * 64) / 2, SPECIES_ELECTIVIRE_MEGA},
+	[SPECIES_MAGMORTAR_MEGA]    = {gFrontSprite1411MagmortarMegaTiles, (64 * 64) / 2, SPECIES_MAGMORTAR_MEGA},
+
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},
