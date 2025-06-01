@@ -1,5 +1,6 @@
 a.exe
 *.gba
+*.cheats
 build/*
 extracted/*
 assembly/generated/*
