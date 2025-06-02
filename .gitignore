@@ -1,6 +1,8 @@
 a.exe
 *.gba
 *.cheats
+*.toml
+hex.py
 build/*
 extracted/*
 assembly/generated/*
