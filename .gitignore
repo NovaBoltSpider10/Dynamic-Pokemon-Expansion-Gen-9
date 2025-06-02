@@ -12,6 +12,7 @@ scripts/__pycache__
 *.bak
 *.lnk
 *.sav
+*.vscode
 offsets.ini
 generatedrepoints
 *.idea
