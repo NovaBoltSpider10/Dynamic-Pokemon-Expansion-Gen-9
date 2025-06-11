@@ -4371,7 +4371,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_PIDGEOT_MEGA] =
 	{
 		.size = 0x0,
-		.y_offset = 0x3,
+		.y_offset = 0x7,
 	},
 	[SPECIES_ALAKAZAM_MEGA] =
 	{
