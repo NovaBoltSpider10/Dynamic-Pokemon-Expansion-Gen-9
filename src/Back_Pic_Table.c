@@ -1413,6 +1413,8 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_RHYPERIOR_MEGA]    = {gBackShinySprite1409RhyperiorMegaTiles, (64 * 64) / 2, SPECIES_RHYPERIOR_MEGA},
 	[SPECIES_ELECTIVIRE_MEGA]   = {gBackShinySprite1410ElectivireMegaTiles, (64 * 64) / 2, SPECIES_ELECTIVIRE_MEGA},
 	[SPECIES_MAGMORTAR_MEGA]    = {gBackShinySprite1411MagmortarMegaTiles, (64 * 64) / 2, SPECIES_MAGMORTAR_MEGA},
+	[SPECIES_MEW_MEGA] =		 {gBackShinySprite1412MewMegaTiles, (64 * 64) / 2, SPECIES_MEW_MEGA},
+
 
 	//New Species Go Here
 

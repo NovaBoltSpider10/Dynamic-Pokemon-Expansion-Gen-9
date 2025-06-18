@@ -1410,6 +1410,8 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_RHYPERIOR_MEGA]   = gIconSprite1409RhyperiorMegaTiles,
 	[SPECIES_ELECTIVIRE_MEGA]  = gIconSprite1410ElectivireMegaTiles,
 	[SPECIES_MAGMORTAR_MEGA]   = gIconSprite1411MagmortarMegaTiles,
+    [SPECIES_MEW_MEGA] = gIconSprite1412MewMegaTiles,
+
 
 	//New Species Go Here
 

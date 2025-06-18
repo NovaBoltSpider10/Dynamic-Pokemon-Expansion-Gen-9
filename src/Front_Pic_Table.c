@@ -1413,6 +1413,7 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_RHYPERIOR_MEGA]    = {gFrontSprite1409RhyperiorMegaTiles, (64 * 64) / 2, SPECIES_RHYPERIOR_MEGA},
 	[SPECIES_ELECTIVIRE_MEGA]   = {gFrontSprite1410ElectivireMegaTiles, (64 * 64) / 2, SPECIES_ELECTIVIRE_MEGA},
 	[SPECIES_MAGMORTAR_MEGA]    = {gFrontSprite1411MagmortarMegaTiles, (64 * 64) / 2, SPECIES_MAGMORTAR_MEGA},
+    [SPECIES_MEW_MEGA] = {gFrontSprite1412MewMegaTiles, (64 * 64) / 2, SPECIES_MEW_MEGA},
 
 	//New Species Go Here
 

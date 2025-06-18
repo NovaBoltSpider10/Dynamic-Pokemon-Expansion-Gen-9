@@ -1413,6 +1413,7 @@ const struct CompressedSpritePalette gMonShinyPaletteTable[NUM_SPECIES] =
 	[SPECIES_RHYPERIOR_MEGA]   = {gBackShinySprite1409RhyperiorMegaPal, SPECIES_RHYPERIOR_MEGA + NUM_SPECIES, 0x0},
 	[SPECIES_ELECTIVIRE_MEGA]  = {gBackShinySprite1410ElectivireMegaPal, SPECIES_ELECTIVIRE_MEGA + NUM_SPECIES, 0x0},
 	[SPECIES_MAGMORTAR_MEGA]   = {gBackShinySprite1411MagmortarMegaPal, SPECIES_MAGMORTAR_MEGA + NUM_SPECIES, 0x0},
+    [SPECIES_MEW_MEGA] = {gBackShinySprite1412MewMegaPal, SPECIES_MEW_MEGA + NUM_SPECIES, 0x0},
 
 	//New Species Go Here
 

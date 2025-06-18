@@ -7038,6 +7038,11 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x4,
 	},
+	[SPECIES_MEW_MEGA] = 
+	{
+		.size = 0x0,
+		.y_offset = 0x4,
+	},
 	//New Species Go Here
 
 	[SPECIES_VENUSAUR_GIGA] =

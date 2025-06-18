@@ -1418,6 +1418,7 @@ extern const u8 gFrontSprite1408BellossomMegaTiles[];
 extern const u8 gFrontSprite1409RhyperiorMegaTiles[];
 extern const u8 gFrontSprite1410ElectivireMegaTiles[];
 extern const u8 gFrontSprite1411MagmortarMegaTiles[];
+extern const u8 gFrontSprite1412MewMegaTiles[];
 
 
 extern const u8 gFrontSprite252Tiles[];
@@ -2840,6 +2841,7 @@ extern const u8 gBackShinySprite1408BellossomMegaTiles[];
 extern const u8 gBackShinySprite1409RhyperiorMegaTiles[];
 extern const u8 gBackShinySprite1410ElectivireMegaTiles[];
 extern const u8 gBackShinySprite1411MagmortarMegaTiles[];
+extern const u8 gBackShinySprite1412MewMegaTiles[];
 
 
 extern const u8 gBackShinySprite252Tiles[];
@@ -4264,6 +4266,7 @@ extern const u8 gFrontSprite1408BellossomMegaPal[];
 extern const u8 gFrontSprite1409RhyperiorMegaPal[];
 extern const u8 gFrontSprite1410ElectivireMegaPal[];
 extern const u8 gFrontSprite1411MagmortarMegaPal[];
+extern const u8 gFrontSprite1412MewMegaPal[];
 
 
 extern const u8 gFrontSprite252Pal[];
@@ -5686,6 +5689,7 @@ extern const u8 gBackShinySprite1408BellossomMegaPal[];
 extern const u8 gBackShinySprite1409RhyperiorMegaPal[];
 extern const u8 gBackShinySprite1410ElectivireMegaPal[];
 extern const u8 gBackShinySprite1411MagmortarMegaPal[];
+extern const u8 gBackShinySprite1412MewMegaPal[];
 
 
 extern const u8 gBackShinySprite252Pal[];
@@ -7112,6 +7116,7 @@ extern const u8 gIconSprite1408BellossomMegaTiles[];
 extern const u8 gIconSprite1409RhyperiorMegaTiles[];
 extern const u8 gIconSprite1410ElectivireMegaTiles[];
 extern const u8 gIconSprite1411MagmortarMegaTiles[];
+extern const u8 gIconSprite1412MewMegaTiles[];
 
 
 extern const u8 gIconSprite252Tiles[];

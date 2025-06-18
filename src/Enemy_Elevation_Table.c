@@ -1409,6 +1409,8 @@ const u8 gEnemyMonElevation[NUM_SPECIES] =
 	[SPECIES_RHYPERIOR_MEGA]   = 0x0,
 	[SPECIES_ELECTIVIRE_MEGA]  = 0x0,
 	[SPECIES_MAGMORTAR_MEGA]   = 0x0,
+	[SPECIES_MEW_MEGA]   = 0x8,
+
 
 	//New Species Go Here
 
