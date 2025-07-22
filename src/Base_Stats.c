@@ -46615,11 +46615,11 @@ const struct BaseStats gBaseStats[] =
 	[SPECIES_DRAGONITE_MEGA] =
 	{
 		.baseHP 		= 91,
-		.baseAttack 	= 154,
+		.baseAttack 	= 134,
 		.baseDefense 	= 115,
-		.baseSpAttack 	= 70,
+		.baseSpAttack 	= 140,
 		.baseSpDefense 	= 120,
-		.baseSpeed 		= 120,
+		.baseSpeed 		= 70,
 		.type1 = TYPE_DRAGON,
 		.type2 = TYPE_FLYING,
 		.catchRate = 45,

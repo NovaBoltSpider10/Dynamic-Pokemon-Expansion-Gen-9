@@ -17,3 +17,4 @@ offsets.ini
 generatedrepoints
 *.idea
 .python-version
+.ups
